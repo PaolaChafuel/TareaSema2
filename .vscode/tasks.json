@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Iniciar CRUD PHP (XAMPP)",
+      "type": "shell",
+      "command": "C:\\xampp\\php\\php.exe",
+      "args": ["-S", "localhost:8000", "-t", "public"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "Iniciar CRUD PHP (PHP en PATH)",
+      "type": "shell",
+      "command": "php",
+      "args": ["-S", "localhost:8000", "-t", "public"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    }
+  ]
+}

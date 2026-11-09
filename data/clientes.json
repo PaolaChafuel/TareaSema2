@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Paola",
+        "apellido": "Cháfuel",
+        "correo": "paoladayana.1997@outlook.es",
+        "telefono": "0985460275",
+        "direccion": "Quito, Llano Grande"
+    },
+    {
+        "id": 2,
+        "nombre": "Daniela",
+        "apellido": "Chafuel",
+        "correo": "eridansna@hotmail.com",
+        "telefono": "0985632147",
+        "direccion": "Quito"
+    }
+]
